@@ -544,10 +544,10 @@ copies or substantial portions of the Software.
 ## 📞 **Contact & Support**
 
 ### 👤 **Author**
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Name**: R.M.SENTAMIL MUKILAN
+- **Email**: sentamilmukilan18@gmail.com
+- **GitHub**: [sentaamil](https://github.com/sentaamil/netflix-analytics-dashboard)
+- **LinkedIn**: [https://www.linkedin.com/in/sentamil-mukilan-r-m-a631172b8/)
 
 ### 💬 **Support Channels**
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/yourusername/netflix-analytics-dashboard/issues)
