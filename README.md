@@ -1,5 +1,10 @@
 # 🎬 Netflix Analytics Dashboard
-![Dashboard Banner](assets/banner.png)
+
+<!-- Banner Image -->
+<p align="center">
+  <img src="assets/banner.png" alt="🎬 Netflix Analytics Dashboard" width="100%">
+</p>
+
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
@@ -7,13 +12,17 @@
   <img src="https://img.shields.io/badge/MySQL-8.0+-orange.svg" alt="MySQL">
   <img src="https://img.shields.io/badge/SQLAlchemy-2.0+-green.svg" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/Plotly-5.15+-purple.svg" alt="Plotly">
+
 </div>
 
+<br/>
+
 <div align="center">
-  <h3>🚀 A fully interactive, Netflix-themed analytics dashboard built with Streamlit, MySQL, and modern data visualization libraries</h3>
+  <strong>🚀 A fully interactive, Netflix-themed analytics dashboard built with Streamlit, MySQL, and modern data visualization libraries</strong>
 </div>
 
 ---
+
 
 ## 🌟 **Project Overview**
 
