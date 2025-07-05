@@ -213,7 +213,7 @@ STREAMLIT_SERVER_HEADLESS=true
 
 ### ▶️ **Step 6: Run the Application**
 ```bash
-streamlit run app/streamlit_dashboard.py
+https://netflix-analytics-dashboard-9d2kjwzpanm4jx64yzbg6j.streamlit.app/
 ```
 
 The dashboard will be available at `http://localhost:8501`
