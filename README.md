@@ -1,5 +1,5 @@
 # 🎬 Netflix Analytics Dashboard
-![Dashboard Banner](assets/banner.png)
+(assets/banner.png)
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
