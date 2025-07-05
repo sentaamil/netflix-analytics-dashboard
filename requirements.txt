@@ -5,3 +5,4 @@ seaborn
 python-dotenv
 SQLAlchemy
 plotly
+mysql-connector-python
