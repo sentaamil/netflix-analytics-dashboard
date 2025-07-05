@@ -1,5 +1,8 @@
 # 🎬 Netflix Analytics Dashboard
-(assets/banner.png)
+<!-- Banner Image -->
+<p align="center">
+  <img src="./banner.png" alt="🎬 Netflix Analytics Dashboard" width="100%">
+</p>
 <div align="center">
 
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
