@@ -2,7 +2,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="assets/banner.png" alt="🎬 Netflix Analytics Dashboard" width="100%">
+  <img src="assests/banner.png" alt="🎬 Netflix Analytics Dashboard" width="100%">
 </p>
 
 <div align="center">
