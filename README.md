@@ -318,17 +318,17 @@ The dashboard will be available at `http://localhost:8501`
 ## 📱 **Screenshots**
 
 ### 🏠 **Main Dashboard**
-![Main Dashboard](assets/screenshots/main_dashboard.png)
+![Main Dashboard](assets/netflex.png)
 
 ### 🔍 **Filter Panel**
-![Filter Panel](assets/screenshots/filter_panel.png)
+![Filter Panel](assets/filter.png)
 
 ### 📊 **Visualizations**
-![Visualizations](assets/screenshots/visualizations.png)
+![Visualizations](assets/netflexq1.png)
 
 ### 💻 **SQL Interface**
-![SQL Interface](assets/screenshots/sql_interface.png)
-
+![SQL Interface](assets/sql.png)
+![SQL Interface](assets/sql_server.png)
 ---
 
 ## 🌐 **Deployment Options**
